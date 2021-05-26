@@ -19,10 +19,6 @@ const assertArraysEqual = (array1, array2) => {
 }
 
 
-
-
-
-
 const letterPositions = string => {
   const results = {};
   for (let i = 0; i < string.length; i++){
